@@ -3,6 +3,7 @@ Overview of the Statistical Analysis.
 
 This Analysis is to help W.Avy to setup his Surf and ice cream shop in Oahu. The Analysis compares the statistical temperatures of June and December.
 
+
 Results.
 
 The average mean temperature of june is 74.94 and December is 71.04, which is very ideal.
@@ -10,6 +11,7 @@ The average mean temperature of june is 74.94 and December is 71.04, which is ve
 The 75% weather stands at 77 & 74 for june and decemeber.
 
 The Max weather stands at 85 & 83 for June and december.
+
 
 
 Summary
